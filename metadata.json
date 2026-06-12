@@ -1,0 +1,6 @@
+{
+  "name": "The Alchemist AI Concierge",
+  "description": "Interactive AI concierge, theatrical booking system, and mystical menu explorer for The Alchemist MediaCityUK cocktail bar in Salford Quays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
